@@ -5,6 +5,7 @@ use App\Models\Endereco;
 use Illuminate\Support\Facades\Route;
 
 // primeira versão : 1.0 // 24/10/2025
+// primeira versão : 1.0 // 25/10/2025 (ajuste telefone)
 
 Route::get('/', function () {
     return view('welcome');
